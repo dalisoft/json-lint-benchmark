@@ -1,0 +1,17 @@
+{
+  "json": {
+    "lineWidth": 80,
+    "indentWidth": 2,
+    "useTabs": false,
+    "newLineKind": "lf",
+    "commentLine.forceSpaceAfterSlashes": true,
+    "preferSingleLine": false,
+    "trailingCommas": "never"
+  },
+  "excludes": [
+    "**/*-lock.json"
+  ],
+  "plugins": [
+    "https://plugins.dprint.dev/json-0.19.2.wasm"
+  ]
+}

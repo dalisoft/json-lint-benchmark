@@ -1,0 +1,19 @@
+{
+  "name": "json-lint-benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "benchmark.sh",
+  "scripts": {
+    "bench": "./benchmark.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@biomejs/biome": "^1.6.4",
+    "@stoplight/spectral-cli": "^6.11.1",
+    "dprint": "^0.45.0",
+    "jsona-rs-npm": "^0.6.0",
+    "prettier": "^3.2.5"
+  }
+}
