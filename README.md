@@ -27,3 +27,4 @@ See [results folder](./results)
 
 - [biomejs](https://github.com/biomejs/biome/discussions/2315)
 - [dprint-plugin-json](https://github.com/dprint/dprint-plugin-json/issues/35)
+- [jsona](https://github.com/jsona/jsona/issues/52)
