@@ -78,7 +78,7 @@
             "name": "前田あゆみ",
             "id": 866260188,
             "id_str": "866260188",
-            "indices": [0,9]
+            "indices": [0, 9]
           }
         ]
       },
@@ -117,7 +117,7 @@
                 "url": "http://t.co/Yg9e1Fl8wd",
                 "expanded_url": "http://twpf.jp/yuttari1998",
                 "display_url": "twpf.jp/yuttari1998",
-                "indices": [0,22]
+                "indices": [0, 22]
               }
             ]
           },
@@ -193,13 +193,13 @@
                   "url": "http://t.co/QMLJeFmfMT",
                   "expanded_url": "http://www.pixiv.net/member.php?id=4776",
                   "display_url": "pixiv.net/member.php?id=…",
-                  "indices": [58,80]
+                  "indices": [58, 80]
                 },
                 {
                   "url": "http://t.co/LU8T7vmU3h",
                   "expanded_url": "http://ask.fm/KATANA77",
                   "display_url": "ask.fm/KATANA77",
-                  "indices": [95,117]
+                  "indices": [95, 117]
                 }
               ]
             }
@@ -252,7 +252,7 @@
             {
               "id": 505864942575034400,
               "id_str": "505864942575034369",
-              "indices": [13,35],
+              "indices": [13, 35],
               "media_url": "http://pbs.twimg.com/media/BwUxfC6CIAEr-Ye.jpg",
               "media_url_https": "https://pbs.twimg.com/media/BwUxfC6CIAEr-Ye.jpg",
               "url": "http://t.co/PkCJAcSuYK",
@@ -301,14 +301,14 @@
             "name": "(有)刀",
             "id": 77915997,
             "id_str": "77915997",
-            "indices": [3,12]
+            "indices": [3, 12]
           }
         ],
         "media": [
           {
             "id": 505864942575034400,
             "id_str": "505864942575034369",
-            "indices": [27,49],
+            "indices": [27, 49],
             "media_url": "http://pbs.twimg.com/media/BwUxfC6CIAEr-Ye.jpg",
             "media_url_https": "https://pbs.twimg.com/media/BwUxfC6CIAEr-Ye.jpg",
             "url": "http://t.co/PkCJAcSuYK",
@@ -378,7 +378,7 @@
                 "url": "http://t.co/5EclbQiRX4",
                 "expanded_url": "http://ap.furtherplatonix.net/index.html",
                 "display_url": "ap.furtherplatonix.net/index.html",
-                "indices": [0,22]
+                "indices": [0, 22]
               }
             ]
           },
@@ -435,7 +435,7 @@
             "name": "miura desu",
             "id": 114188950,
             "id_str": "114188950",
-            "indices": [0,15]
+            "indices": [0, 15]
           }
         ]
       },
@@ -474,7 +474,7 @@
                 "url": "http://t.co/JTFjV89eaN",
                 "expanded_url": "http://www.pixiv.net/member.php?id=1778417",
                 "display_url": "pixiv.net/member.php?id=…",
-                "indices": [0,22]
+                "indices": [0, 22]
               }
             ]
           },
@@ -484,7 +484,7 @@
                 "url": "http://t.co/ANSFlYXERJ",
                 "expanded_url": "http://twpf.jp/chibu4267",
                 "display_url": "twpf.jp/chibu4267",
-                "indices": [45,67]
+                "indices": [45, 67]
               }
             ]
           }
@@ -616,7 +616,7 @@
             "name": "おもっこ",
             "id": 309565423,
             "id_str": "309565423",
-            "indices": [3,11]
+            "indices": [3, 11]
           }
         ]
       },
@@ -761,7 +761,7 @@
           "hashtags": [
             {
               "text": "LEDカツカツ選手権",
-              "indices": [0,11]
+              "indices": [0, 11]
             }
           ],
           "symbols": [],
@@ -771,7 +771,7 @@
             {
               "id": 439430848194936800,
               "id_str": "439430848194936832",
-              "indices": [41,63],
+              "indices": [41, 63],
               "media_url": "http://pbs.twimg.com/media/BhksBzoCAAAJeDS.jpg",
               "media_url_https": "https://pbs.twimg.com/media/BhksBzoCAAAJeDS.jpg",
               "url": "http://t.co/vmrreDMziI",
@@ -814,7 +814,7 @@
         "hashtags": [
           {
             "text": "LEDカツカツ選手権",
-            "indices": [17,28]
+            "indices": [17, 28]
           }
         ],
         "symbols": [],
@@ -825,14 +825,14 @@
             "name": "[90]青葉台  芦 (第二粟屋) 屋",
             "id": 82900665,
             "id_str": "82900665",
-            "indices": [3,15]
+            "indices": [3, 15]
           }
         ],
         "media": [
           {
             "id": 439430848194936800,
             "id_str": "439430848194936832",
-            "indices": [58,80],
+            "indices": [58, 80],
             "media_url": "http://pbs.twimg.com/media/BhksBzoCAAAJeDS.jpg",
             "media_url_https": "https://pbs.twimg.com/media/BhksBzoCAAAJeDS.jpg",
             "url": "http://t.co/vmrreDMziI",
@@ -1104,7 +1104,7 @@
             "name": "蘭ぴよの日常",
             "id": 531544559,
             "id_str": "531544559",
-            "indices": [0,13]
+            "indices": [0, 13]
           }
         ]
       },
@@ -1256,7 +1256,7 @@
               "name": "まお",
               "id": 2179759316,
               "id_str": "2179759316",
-              "indices": [0,11]
+              "indices": [0, 11]
             }
           ]
         },
@@ -1276,14 +1276,14 @@
             "name": "★Shiiiii!☆",
             "id": 1680668713,
             "id_str": "1680668713",
-            "indices": [3,10]
+            "indices": [3, 10]
           },
           {
             "screen_name": "samao21718",
             "name": "まお",
             "id": 2179759316,
             "id_str": "2179759316",
-            "indices": [12,23]
+            "indices": [12, 23]
           }
         ]
       },
@@ -1525,7 +1525,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -1689,7 +1689,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -1793,7 +1793,7 @@
                   "url": "http://t.co/LruVPk5x4K",
                   "expanded_url": "http://www.bridgestone.co.jp/sc/potenza/",
                   "display_url": "bridgestone.co.jp/sc/potenza/",
-                  "indices": [0,22]
+                  "indices": [0, 22]
                 }
               ]
             },
@@ -1850,21 +1850,21 @@
               "name": "CBR Rider #17 KEIHIN",
               "id": 333344408,
               "id_str": "333344408",
-              "indices": [12,18]
+              "indices": [12, 18]
             },
             {
               "screen_name": "POTENZA_SUPERGT",
               "name": "POTENZA_SUPERGT",
               "id": 359324738,
               "id_str": "359324738",
-              "indices": [20,36]
+              "indices": [20, 36]
             }
           ],
           "media": [
             {
               "id": 505868690252779500,
               "id_str": "505868690252779521",
-              "indices": [75,97],
+              "indices": [75, 97],
               "media_url": "http://pbs.twimg.com/media/BwU05MGCUAEY6Wu.jpg",
               "media_url_https": "https://pbs.twimg.com/media/BwU05MGCUAEY6Wu.jpg",
               "url": "http://t.co/FzTyFnt9xH",
@@ -1915,28 +1915,28 @@
             "name": "POTENZA_SUPERGT",
             "id": 359324738,
             "id_str": "359324738",
-            "indices": [3,19]
+            "indices": [3, 19]
           },
           {
             "screen_name": "8CBR8",
             "name": "CBR Rider #17 KEIHIN",
             "id": 333344408,
             "id_str": "333344408",
-            "indices": [33,39]
+            "indices": [33, 39]
           },
           {
             "screen_name": "POTENZA_SUPERGT",
             "name": "POTENZA_SUPERGT",
             "id": 359324738,
             "id_str": "359324738",
-            "indices": [41,57]
+            "indices": [41, 57]
           }
         ],
         "media": [
           {
             "id": 505868690252779500,
             "id_str": "505868690252779521",
-            "indices": [96,118],
+            "indices": [96, 118],
             "media_url": "http://pbs.twimg.com/media/BwU05MGCUAEY6Wu.jpg",
             "media_url_https": "https://pbs.twimg.com/media/BwU05MGCUAEY6Wu.jpg",
             "url": "http://t.co/FzTyFnt9xH",
@@ -2131,7 +2131,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -2236,7 +2236,7 @@
                   "url": "http://t.co/LFX2XOzb0l",
                   "expanded_url": "http://twpf.jp/UARROW_Y",
                   "display_url": "twpf.jp/UARROW_Y",
-                  "indices": [0,22]
+                  "indices": [0, 22]
                 }
               ]
             },
@@ -2291,7 +2291,7 @@
               "url": "http://t.co/SXoYWH98as",
               "expanded_url": "http://twitter.com/UARROW_Y/status/505871779949051904/photo/1",
               "display_url": "pic.twitter.com/SXoYWH98as",
-              "indices": [15,37]
+              "indices": [15, 37]
             }
           ],
           "user_mentions": []
@@ -2311,7 +2311,7 @@
             "url": "http://t.co/SXoYWH98as",
             "expanded_url": "http://twitter.com/UARROW_Y/status/505871779949051904/photo/1",
             "display_url": "pic.twitter.com/SXoYWH98as",
-            "indices": [29,51]
+            "indices": [29, 51]
           }
         ],
         "user_mentions": [
@@ -2320,7 +2320,7 @@
             "name": "ゆう矢",
             "id": 1261662588,
             "id_str": "1261662588",
-            "indices": [3,12]
+            "indices": [3, 12]
           }
         ]
       },
@@ -2563,7 +2563,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -2667,7 +2667,7 @@
                   "url": "http://t.co/AEOCATaNZc",
                   "expanded_url": "http://www.assam-house.net/",
                   "display_url": "assam-house.net",
-                  "indices": [0,22]
+                  "indices": [0, 22]
                 }
               ]
             },
@@ -2677,7 +2677,7 @@
                   "url": "http://t.co/96UqoCo0oU",
                   "expanded_url": "http://blog.assam-house.net/datsu-genpatsu/index.html",
                   "display_url": "blog.assam-house.net/datsu-genpatsu…",
-                  "indices": [110,132]
+                  "indices": [110, 132]
                 }
               ]
             }
@@ -2729,7 +2729,7 @@
               "url": "http://t.co/9oH5cgpy1q",
               "expanded_url": "http://www.pref.niigata.lg.jp/kouhou/info.html",
               "display_url": "pref.niigata.lg.jp/kouhou/info.ht…",
-              "indices": [111,133]
+              "indices": [111, 133]
             }
           ],
           "user_mentions": []
@@ -2749,7 +2749,7 @@
             "url": "http://t.co/9oH5cgpy1q",
             "expanded_url": "http://www.pref.niigata.lg.jp/kouhou/info.html",
             "display_url": "pref.niigata.lg.jp/kouhou/info.ht…",
-            "indices": [139,140]
+            "indices": [139, 140]
           }
         ],
         "user_mentions": [
@@ -2758,7 +2758,7 @@
             "name": "アッサム山中（殺処分ゼロに一票）",
             "id": 1104771276,
             "id_str": "1104771276",
-            "indices": [3,15]
+            "indices": [3, 15]
           }
         ]
       },
@@ -2923,7 +2923,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -3087,7 +3087,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -3251,7 +3251,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -3415,7 +3415,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -3579,7 +3579,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -3743,7 +3743,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -3907,7 +3907,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -3946,7 +3946,7 @@
                 "url": "http://t.co/mM1dG54NiO",
                 "expanded_url": "http://twpf.jp/oshin_koko",
                 "display_url": "twpf.jp/oshin_koko",
-                "indices": [0,22]
+                "indices": [0, 22]
               }
             ]
           },
@@ -4022,7 +4022,7 @@
                   "url": "http://t.co/K3Oi83wM3w",
                   "expanded_url": "http://cnanews.asablo.jp/blog/",
                   "display_url": "cnanews.asablo.jp/blog/",
-                  "indices": [0,22]
+                  "indices": [0, 22]
                 }
               ]
             },
@@ -4032,7 +4032,7 @@
                   "url": "http://t.co/jVqBoBEc",
                   "expanded_url": "http://unlimited-zc.jp/index.html",
                   "display_url": "unlimited-zc.jp/index.html",
-                  "indices": [59,79]
+                  "indices": [59, 79]
                 }
               ]
             }
@@ -4097,7 +4097,7 @@
             "name": "椎名高志",
             "id": 126573583,
             "id_str": "126573583",
-            "indices": [3,18]
+            "indices": [3, 18]
           }
         ]
       },
@@ -4261,7 +4261,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -4425,7 +4425,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -4589,7 +4589,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -4753,7 +4753,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -4832,7 +4832,7 @@
         "hashtags": [
           {
             "text": "RTした人にやる",
-            "indices": [119,128]
+            "indices": [119, 128]
           }
         ],
         "symbols": [],
@@ -4843,7 +4843,7 @@
             "name": "上野滉平",
             "id": 2591363659,
             "id_str": "2591363659",
-            "indices": [0,10]
+            "indices": [0, 10]
           }
         ]
       },
@@ -5007,7 +5007,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -5248,7 +5248,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -5412,7 +5412,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -5576,7 +5576,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -5740,7 +5740,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -5886,7 +5886,7 @@
           "hashtags": [
             {
               "text": "RTした人にやる",
-              "indices": [47,56]
+              "indices": [47, 56]
             }
           ],
           "symbols": [],
@@ -5903,7 +5903,7 @@
         "hashtags": [
           {
             "text": "RTした人にやる",
-            "indices": [61,70]
+            "indices": [61, 70]
           }
         ],
         "symbols": [],
@@ -5914,7 +5914,7 @@
             "name": "なおぴす",
             "id": 856045488,
             "id_str": "856045488",
-            "indices": [3,12]
+            "indices": [3, 12]
           }
         ]
       },
@@ -6078,7 +6078,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -6242,7 +6242,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -6406,7 +6406,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -6523,7 +6523,7 @@
                 "url": "https://t.co/3sB1NDnd0m",
                 "expanded_url": "https://github.com/AKB428/YahooAuctionBot",
                 "display_url": "github.com/AKB428/YahooAu…",
-                "indices": [0,23]
+                "indices": [0, 23]
               }
             ]
           },
@@ -6573,7 +6573,7 @@
         "hashtags": [
           {
             "text": "一眼レフ",
-            "indices": [95,100]
+            "indices": [95, 100]
           }
         ],
         "symbols": [],
@@ -6582,7 +6582,7 @@
             "url": "http://t.co/4WK1f6V2n6",
             "expanded_url": "http://atq.ck.valuecommerce.com/servlet/atq/referral?sid=2219441&pid=877510753&vcptn=auct/p/RJH492.PLqoLQQx1Jy8U9LE-&vc_url=http://page8.auctions.yahoo.co.jp/jp/auction/h192024356",
             "display_url": "atq.ck.valuecommerce.com/servlet/atq/re…",
-            "indices": [49,71]
+            "indices": [49, 71]
           }
         ],
         "user_mentions": [],
@@ -6590,7 +6590,7 @@
           {
             "id": 505874882828046340,
             "id_str": "505874882828046336",
-            "indices": [101,123],
+            "indices": [101, 123],
             "media_url": "http://pbs.twimg.com/media/BwU6hpPCEAAxnpq.jpg",
             "media_url_https": "https://pbs.twimg.com/media/BwU6hpPCEAAxnpq.jpg",
             "url": "http://t.co/PcSaXzfHMW",
@@ -6783,7 +6783,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -6900,7 +6900,7 @@
                 "url": "http://t.co/ll2yu78DGR",
                 "expanded_url": "http://qma-kyushu.sakura.ne.jp/",
                 "display_url": "qma-kyushu.sakura.ne.jp",
-                "indices": [0,22]
+                "indices": [0, 22]
               }
             ]
           },
@@ -6910,7 +6910,7 @@
                 "url": "http://t.co/ezuHyjF4Qy",
                 "expanded_url": "http://twpf.jp/natit_yso",
                 "display_url": "twpf.jp/natit_yso",
-                "indices": [83,105]
+                "indices": [83, 105]
               }
             ]
           }
@@ -6982,7 +6982,7 @@
                   "url": "http://t.co/Cn1tPTsBGY",
                   "expanded_url": "http://www.miura.ed.jp/index.html",
                   "display_url": "miura.ed.jp/index.html",
-                  "indices": [0,22]
+                  "indices": [0, 22]
                 }
               ]
             },
@@ -7051,7 +7051,7 @@
             "name": "三浦学苑軟式野球部応援団！",
             "id": 2761692762,
             "id_str": "2761692762",
-            "indices": [3,13]
+            "indices": [3, 13]
           }
         ]
       },
@@ -7215,7 +7215,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -7379,7 +7379,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -7543,7 +7543,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -7707,7 +7707,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -7812,7 +7812,7 @@
                   "url": "http://t.co/kKCCwHTaph",
                   "expanded_url": "http://twpf.jp/Ang_Angel73",
                   "display_url": "twpf.jp/Ang_Angel73",
-                  "indices": [0,22]
+                  "indices": [0, 22]
                 }
               ]
             },
@@ -7881,7 +7881,7 @@
             "name": "臙脂",
             "id": 1600750194,
             "id_str": "1600750194",
-            "indices": [3,15]
+            "indices": [3, 15]
           }
         ]
       },
@@ -8045,7 +8045,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -8209,7 +8209,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -8450,7 +8450,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -8614,7 +8614,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -8778,7 +8778,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -8817,7 +8817,7 @@
                 "url": "http://t.co/nuUvfUVD",
                 "expanded_url": "http://goo.gl/SrGLb",
                 "display_url": "goo.gl/SrGLb",
-                "indices": [29,49]
+                "indices": [29, 49]
               }
             ]
           }
@@ -8934,13 +8934,13 @@
               "url": "http://t.co/ZkU4TZCGPG",
               "expanded_url": "http://www.tepco.co.jp/nu/fukushima-np/review/images/review1_01.gif",
               "display_url": "tepco.co.jp/nu/fukushima-n…",
-              "indices": [17,39]
+              "indices": [17, 39]
             },
             {
               "url": "http://t.co/lmlgp38fgZ",
               "expanded_url": "http://youtu.be/gDXEhyuVSDk",
               "display_url": "youtu.be/gDXEhyuVSDk",
-              "indices": [99,121]
+              "indices": [99, 121]
             }
           ],
           "user_mentions": [
@@ -8949,7 +8949,7 @@
               "name": "Lightworker",
               "id": 238157843,
               "id_str": "238157843",
-              "indices": [54,68]
+              "indices": [54, 68]
             }
           ]
         },
@@ -8968,13 +8968,13 @@
             "url": "http://t.co/ZkU4TZCGPG",
             "expanded_url": "http://www.tepco.co.jp/nu/fukushima-np/review/images/review1_01.gif",
             "display_url": "tepco.co.jp/nu/fukushima-n…",
-            "indices": [32,54]
+            "indices": [32, 54]
           },
           {
             "url": "http://t.co/lmlgp38fgZ",
             "expanded_url": "http://youtu.be/gDXEhyuVSDk",
             "display_url": "youtu.be/gDXEhyuVSDk",
-            "indices": [114,136]
+            "indices": [114, 136]
           }
         ],
         "user_mentions": [
@@ -8983,14 +8983,14 @@
             "name": "タクラミックス",
             "id": 29599253,
             "id_str": "29599253",
-            "indices": [3,13]
+            "indices": [3, 13]
           },
           {
             "screen_name": "Lightworker19",
             "name": "Lightworker",
             "id": 238157843,
             "id_str": "238157843",
-            "indices": [69,83]
+            "indices": [69, 83]
           }
         ]
       },
@@ -9155,7 +9155,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -9239,7 +9239,7 @@
             "url": "http://t.co/toQgVlXPyH",
             "expanded_url": "http://news24h.allnews24h.com/FX54",
             "display_url": "news24h.allnews24h.com/FX54",
-            "indices": [114,136]
+            "indices": [114, 136]
           }
         ],
         "user_mentions": []
@@ -9280,7 +9280,7 @@
                 "url": "http://t.co/SQLZnvjVxB",
                 "expanded_url": "http://s.ameblo.jp/hikarihikarimay",
                 "display_url": "s.ameblo.jp/hikarihikarimay",
-                "indices": [0,22]
+                "indices": [0, 22]
               }
             ]
           },
@@ -9337,7 +9337,7 @@
             "name": "Take3",
             "id": 535179785,
             "id_str": "535179785",
-            "indices": [0,14]
+            "indices": [0, 14]
           }
         ]
       },
@@ -9501,7 +9501,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -9665,7 +9665,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -9829,7 +9829,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -9912,7 +9912,7 @@
             "url": "http://t.co/jRWJt8IrSB",
             "expanded_url": "http://bit.ly/1qBa1nl",
             "display_url": "bit.ly/1qBa1nl",
-            "indices": [75,97]
+            "indices": [75, 97]
           }
         ],
         "user_mentions": [],
@@ -9920,7 +9920,7 @@
           {
             "id": 505874871344066560,
             "id_str": "505874871344066560",
-            "indices": [98,120],
+            "indices": [98, 120],
             "media_url": "http://pbs.twimg.com/media/BwU6g-dCcAALxAW.png",
             "media_url_https": "https://pbs.twimg.com/media/BwU6g-dCcAALxAW.png",
             "url": "http://t.co/okrAoxSbt0",
@@ -9988,7 +9988,7 @@
                 "url": "http://t.co/wR0Qb76TbB",
                 "expanded_url": "http://twpf.jp/Ymaaya_gem",
                 "display_url": "twpf.jp/Ymaaya_gem",
-                "indices": [0,22]
+                "indices": [0, 22]
               }
             ]
           },
@@ -10039,7 +10039,7 @@
         "hashtags": [
           {
             "text": "ふぁぼした人にやる",
-            "indices": [128,138]
+            "indices": [128, 138]
           }
         ],
         "symbols": [],
@@ -10050,7 +10050,7 @@
             "name": "なーさん",
             "id": 1717603286,
             "id_str": "1717603286",
-            "indices": [0,11]
+            "indices": [0, 11]
           }
         ]
       },
@@ -10089,7 +10089,7 @@
                 "url": "http://t.co/5R4dzpbWX2",
                 "expanded_url": "http://twpf.jp/BDFF_LOVE",
                 "display_url": "twpf.jp/BDFF_LOVE",
-                "indices": [0,22]
+                "indices": [0, 22]
               }
             ]
           },
@@ -10380,7 +10380,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -10544,7 +10544,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -10708,7 +10708,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -10872,7 +10872,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -10958,7 +10958,7 @@
             "name": "Indirectas... ✉",
             "id": 833083404,
             "id_str": "833083404",
-            "indices": [1,12]
+            "indices": [1, 12]
           }
         ]
       },
@@ -11122,7 +11122,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -11286,7 +11286,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -11450,7 +11450,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -11614,7 +11614,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -11778,7 +11778,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -11942,7 +11942,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -12106,7 +12106,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -12192,7 +12192,7 @@
             "name": "かおちゃん",
             "id": 796000214,
             "id_str": "796000214",
-            "indices": [0,10]
+            "indices": [0, 10]
           }
         ]
       },
@@ -12356,7 +12356,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -12441,7 +12441,7 @@
             "name": "前田一稀",
             "id": 141170845,
             "id_str": "141170845",
-            "indices": [0,11]
+            "indices": [0, 11]
           }
         ]
       },
@@ -12605,7 +12605,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -12769,7 +12769,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -12933,7 +12933,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -13097,7 +13097,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -13261,7 +13261,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -13425,7 +13425,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -13589,7 +13589,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -13668,11 +13668,11 @@
         "hashtags": [
           {
             "text": "キンドル",
-            "indices": [50,55]
+            "indices": [50, 55]
           },
           {
             "text": "天冥の標VI宿怨PART1",
-            "indices": [56,70]
+            "indices": [56, 70]
           }
         ],
         "symbols": [],
@@ -13681,7 +13681,7 @@
             "url": "http://t.co/fXIgRt4ffH",
             "expanded_url": "http://j.mp/1kHBOym",
             "display_url": "j.mp/1kHBOym",
-            "indices": [25,47]
+            "indices": [25, 47]
           }
         ],
         "user_mentions": []
@@ -13766,7 +13766,7 @@
             "url": "http://t.co/RNdqIHmTby",
             "expanded_url": "http://bit.ly/1tOdNsI",
             "display_url": "bit.ly/1tOdNsI",
-            "indices": [114,136]
+            "indices": [114, 136]
           }
         ],
         "user_mentions": []
@@ -13932,7 +13932,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -14096,7 +14096,7 @@
             "name": "幸せの☆お守り",
             "id": 2745121514,
             "id_str": "2745121514",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -14182,7 +14182,7 @@
             "name": "ユーリ",
             "id": 2286548834,
             "id_str": "2286548834",
-            "indices": [0,13]
+            "indices": [0, 13]
           }
         ]
       },
@@ -14221,7 +14221,7 @@
                 "url": "http://t.co/V4oyL0xtZk",
                 "expanded_url": "http://astore.amazon.co.jp/furniturewood-22",
                 "display_url": "astore.amazon.co.jp/furniturewood-…",
-                "indices": [0,22]
+                "indices": [0, 22]
               }
             ]
           },
@@ -14276,7 +14276,7 @@
             "url": "http://t.co/4hbyB1rbQ7",
             "expanded_url": "http://ift.tt/1kT55bk",
             "display_url": "ift.tt/1kT55bk",
-            "indices": [116,138]
+            "indices": [116, 138]
           }
         ],
         "user_mentions": []
@@ -14442,7 +14442,7 @@
             "name": "知らぬが仏bot",
             "id": 2243896200,
             "id_str": "2243896200",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ]
       },
@@ -14546,7 +14546,7 @@
                   "url": "http://t.co/LFX2XOzb0l",
                   "expanded_url": "http://twpf.jp/UARROW_Y",
                   "display_url": "twpf.jp/UARROW_Y",
-                  "indices": [0,22]
+                  "indices": [0, 22]
                 }
               ]
             },
@@ -14601,7 +14601,7 @@
               "url": "http://t.co/SXoYWH98as",
               "expanded_url": "http://twitter.com/UARROW_Y/status/505871779949051904/photo/1",
               "display_url": "pic.twitter.com/SXoYWH98as",
-              "indices": [15,37]
+              "indices": [15, 37]
             }
           ],
           "user_mentions": []
@@ -14621,7 +14621,7 @@
             "url": "http://t.co/SXoYWH98as",
             "expanded_url": "http://twitter.com/UARROW_Y/status/505871779949051904/photo/1",
             "display_url": "pic.twitter.com/SXoYWH98as",
-            "indices": [29,51]
+            "indices": [29, 51]
           }
         ],
         "user_mentions": [
@@ -14630,7 +14630,7 @@
             "name": "ゆう矢",
             "id": 1261662588,
             "id_str": "1261662588",
-            "indices": [3,12]
+            "indices": [3, 12]
           }
         ]
       },
@@ -14781,7 +14781,7 @@
               "url": "http://t.co/HLX9mHcQwe",
               "expanded_url": "http://is.gd/H3OgTO",
               "display_url": "is.gd/H3OgTO",
-              "indices": [57,79]
+              "indices": [57, 79]
             }
           ],
           "user_mentions": [],
@@ -14789,7 +14789,7 @@
             {
               "id": 505866668485386240,
               "id_str": "505866668485386241",
-              "indices": [80,102],
+              "indices": [80, 102],
               "media_url": "http://pbs.twimg.com/media/BwUzDgbIIAEgvhD.jpg",
               "media_url_https": "https://pbs.twimg.com/media/BwUzDgbIIAEgvhD.jpg",
               "url": "http://t.co/fVVOSML5s8",
@@ -14836,7 +14836,7 @@
             "url": "http://t.co/HLX9mHcQwe",
             "expanded_url": "http://is.gd/H3OgTO",
             "display_url": "is.gd/H3OgTO",
-            "indices": [78,100]
+            "indices": [78, 100]
           }
         ],
         "user_mentions": [
@@ -14845,14 +14845,14 @@
             "name": "※范强※法特姗瑟希蒲※",
             "id": 67661086,
             "id_str": "67661086",
-            "indices": [3,19]
+            "indices": [3, 19]
           }
         ],
         "media": [
           {
             "id": 505866668485386240,
             "id_str": "505866668485386241",
-            "indices": [101,123],
+            "indices": [101, 123],
             "media_url": "http://pbs.twimg.com/media/BwUzDgbIIAEgvhD.jpg",
             "media_url_https": "https://pbs.twimg.com/media/BwUzDgbIIAEgvhD.jpg",
             "url": "http://t.co/fVVOSML5s8",
@@ -14922,7 +14922,7 @@
                 "url": "http://t.co/ulD2e9mcwb",
                 "expanded_url": "http://www.nicovideo.jp/mylist/37917495",
                 "display_url": "nicovideo.jp/mylist/37917495",
-                "indices": [0,22]
+                "indices": [0, 22]
               }
             ]
           },
@@ -14932,7 +14932,7 @@
                 "url": "http://t.co/8E91tqoeKX",
                 "expanded_url": "http://ameblo.jp/2no38mae/",
                 "display_url": "ameblo.jp/2no38mae/",
-                "indices": [125,147]
+                "indices": [125, 147]
               }
             ]
           }
@@ -14980,7 +14980,7 @@
         "hashtags": [
           {
             "text": "sm24357625",
-            "indices": [53,64]
+            "indices": [53, 64]
           }
         ],
         "symbols": [],
@@ -14989,7 +14989,7 @@
             "url": "http://t.co/PjL9if8OZC",
             "expanded_url": "http://nico.ms/sm24357625",
             "display_url": "nico.ms/sm24357625",
-            "indices": [30,52]
+            "indices": [30, 52]
           }
         ],
         "user_mentions": []
