@@ -16,7 +16,7 @@ Run `./benchmark.sh`
 
 ## Results
 
-See [results folder](./results)
+See [results folder](./results/)
 
 ## Note
 
