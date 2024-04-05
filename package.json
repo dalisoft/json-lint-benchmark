@@ -14,7 +14,7 @@
     "@stoplight/spectral-cli": "^6.11.1",
     "dprint": "^0.45.1",
     "jsona-rs-npm": "^0.6.0",
-    "dprint-rs-npm": "https://github.com/dalisoft/dprint-rs-npm.git",
+    "dprint-rs-npm": "^0.45.1",
     "prettier": "^3.2.5"
   },
   "trustedDependencies": [
