@@ -12,11 +12,13 @@
   "devDependencies": {
     "@biomejs/biome": "^1.6.4",
     "@stoplight/spectral-cli": "^6.11.1",
-    "dprint": "^0.45.0",
+    "dprint": "^0.45.1",
     "jsona-rs-npm": "^0.6.0",
+    "dprint-rs-npm": "https://github.com/dalisoft/dprint-rs-npm.git",
     "prettier": "^3.2.5"
   },
   "trustedDependencies": [
-    "jsona-rs-npm"
+    "jsona-rs-npm",
+    "dprint-rs-npm"
   ]
 }

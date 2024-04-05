@@ -16,5 +16,5 @@ export -f prepare
 # shellcheck disable=SC2034
 for item in ${json_files}; do
   file="data/$item.json"
-  hyperfine --runs 3 "biome format $file" "prettier -c $file" "dprint check $file" "deno fmt $file" "jsona fmt --option trailing_newline=true --check $file" "spectral lint --ignore-unknown-format $file" --export-markdown "results/$item.md" --prepare prepare
+  hyperfine --runs 3 "biome format $file" "prettier -c $file" "./node_modules/dprint/bin.js check $file" "./node_modules/dprint-rs-npm/dprint check $file" "deno fmt $file" "jsona fmt --option trailing_newline=true --check $file" "spectral lint --ignore-unknown-format $file" --export-markdown "results/$item.md" --prepare prepare
 done
