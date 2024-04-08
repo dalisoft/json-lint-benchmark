@@ -12,10 +12,10 @@
   "devDependencies": {
     "@biomejs/biome": "^1.6.4",
     "@stoplight/spectral-cli": "^6.11.1",
-    "biome-rs-npm": "^1.6.4b",
+    "biome-rs-npm": "^1.6.4d",
     "dprint": "^0.45.1",
-    "dprint-rs-npm": "^0.45.1a",
-    "jsona-rs-npm": "^0.6.0",
+    "dprint-rs-npm": "^0.45.1d",
+    "jsona-rs-npm": "^0.6.0a",
     "prettier": "^3.2.5"
   },
   "trustedDependencies": [

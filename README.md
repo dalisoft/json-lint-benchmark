@@ -28,3 +28,12 @@ See [results folder](./results/)
 - [biomejs](https://github.com/biomejs/biome/discussions/2315)
 - <strike>[dprint-plugin-json](https://github.com/dprint/dprint-plugin-json/issues/35)</strike>
 - [jsona](https://github.com/jsona/jsona/issues/52)
+
+## Pull Requests
+
+This PR should improve of project binary startup time for `npm`
+
+- [biome](https://github.com/biomejs/biome/pull/2359)
+- [dprint](https://github.com/dprint/dprint/pull/840),
+- OR [dprint PR 2](https://github.com/dprint/dprint/pull/839)
+- [oxlint](https://github.com/oxc-project/oxc/pull/2920)
